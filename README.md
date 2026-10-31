@@ -11,11 +11,10 @@ I'm a Computer Science undergraduate passionate about crafting complete digital 
 - 🔐 Experience with RBAC and JWT authentication
 - 🏆 Rank 15 in a medical imaging hackathon
 - 💼 Open to internships and entry-level opportunities
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-palletipradeepa.vercel.app-black?style=for-the-badge&logo=vercel)](https://palletipradeepa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://palletipradeepa.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeepa_Palleti-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pradeepa-palleti)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pradeepapalleti16@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-pradee16-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pradee16/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-View%20Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pradee16/)
 
 ---
 
@@ -149,23 +148,6 @@ A machine learning application that predicts Titanic passenger survival using lo
 - Solved 100+ problems on LeetCode.
 - Earned the LeetCode 50 Days Badge.
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pradeepapalleti&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepapalleti&layout=compact&theme=dark&hide_border=true" height="165" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=pradeepapalleti&theme=dark&hide_border=true" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 

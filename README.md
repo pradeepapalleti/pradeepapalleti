@@ -1,14 +1,3 @@
-Read , lines 250 to 285
-Completed with input: {
-  "path": "C:\\Users\\prade\\AppData\\Local\\Temp\\1793466658552-copilot-tool-output-4220a552b253403e8b3fc59f1e382da5.txt",
-  "view_range": [
-    250,
-    285
-  ]
-}
-
-Copy this entire file into `README.md` in your public profile repository named `pradeepapalleti`:
-
 ```md
 # 👋 Hi, I'm Pradeepa Palleti
 

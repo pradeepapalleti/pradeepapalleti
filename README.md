@@ -11,6 +11,7 @@ I'm a Computer Science undergraduate passionate about crafting complete digital 
 - 🔐 Experience with RBAC and JWT authentication
 - 🏆 Rank 15 in a medical imaging hackathon
 - 💼 Open to internships and entry-level opportunities
+  
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://palletipradeepa.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeepa_Palleti-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pradeepa-palleti)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pradeepapalleti16@gmail.com)

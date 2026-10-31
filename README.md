@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I'm Pradeepa Palleti
 
 ## Full Stack Developer
